@@ -1,0 +1,11 @@
+\\Mac\Home\Desktop\flappy birds windows form\flappy birds windows form\bin\Debug\flappy birds windows form.exe.config
+\\Mac\Home\Desktop\flappy birds windows form\flappy birds windows form\bin\Debug\flappy birds windows form.exe
+\\Mac\Home\Desktop\flappy birds windows form\flappy birds windows form\bin\Debug\flappy birds windows form.pdb
+\\Mac\Home\Desktop\flappy birds windows form\flappy birds windows form\obj\Debug\flappy birds windows form.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\flappy birds windows form\flappy birds windows form\obj\Debug\flappy birds windows form.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\flappy birds windows form\flappy birds windows form\obj\Debug\flappy_birds_windows_form.Form1.resources
+\\Mac\Home\Desktop\flappy birds windows form\flappy birds windows form\obj\Debug\flappy_birds_windows_form.Properties.Resources.resources
+\\Mac\Home\Desktop\flappy birds windows form\flappy birds windows form\obj\Debug\flappy birds windows form.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\flappy birds windows form\flappy birds windows form\obj\Debug\flappy birds windows form.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\flappy birds windows form\flappy birds windows form\obj\Debug\flappy birds windows form.exe
+\\Mac\Home\Desktop\flappy birds windows form\flappy birds windows form\obj\Debug\flappy birds windows form.pdb
